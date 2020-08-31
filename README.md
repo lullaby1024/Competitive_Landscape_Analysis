@@ -44,7 +44,7 @@ For demonstration purpose, this analysis will be carried out on organizations wi
 - Visualization: pyLDAvis
  <img src="https://github.com/lullaby1024/Competitive_Landscape_Analysis/blob/master/img/topic_annotated.png" width="85%">
 
-### Business Insights
+## Business Insights
 - The following questions are answered by this project:
   - Which organizations have similar missions as JerseySTEM?
   - Which organizations have similar programs as JerseySTEM?
