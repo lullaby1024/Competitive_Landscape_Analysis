@@ -1,7 +1,7 @@
 # Competitive Landscape Analysis
 
 ## Overview
-The goal of this project is to perform competitive landscape analysis using ML techiniques such as similarity analysis and topic modeling. Business insights were drawn following a SWOT framework.
+The goal of this project is to perform competitive landscape analysis using ML techniques such as similarity analysis and topic modeling. Business insights were drawn following a SWOT framework.
 
 ## Approach
 ### Preliminary step: research
@@ -19,7 +19,7 @@ For demonstration purpose, this analysis will be carried out on organizations wi
   - Remove stopwords. Also exclude
   - Organization names (and their acronyms)
   - Some other frequent words we are not interested in, i.e., words that are likely to appear for almost every document
-    - Remark: we don't want the repetitive occurences of these words to affect token frequency later. ['nonprofit','non','profit','inc','program','mission', 'organization','world','today','day','jersey','student','kid','education','year','age']
+    - Remark: we don't want the repetitive occurrences of these words to affect token frequency later. ['nonprofit','non','profit','inc','program','mission', 'organization','world','today','day','jersey','student','kid','education','year','age']
   - Vectorization: TF-IDF
 
 ### Similarity Analysis for Missions
@@ -48,7 +48,7 @@ For demonstration purpose, this analysis will be carried out on organizations wi
 - The following questions are answered by this project:
   - Which organizations have similar missions as JerseySTEM?
   - Which organizations have similar programs as JerseySTEM?
-  - Based on the results, where does JerseySTEM lie in the market? What are the opportunites/threats?
+  - Based on the results, where does JerseySTEM lie in the market? What are the opportunities/threats?
   
 ## Limitations
 - Scraping is done manually. Scrapers can be developed to automate the process.
