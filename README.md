@@ -5,7 +5,7 @@ The goal of this project is to perform competitive landscape analysis using ML t
 
 ## Approach
 ### Preliminary step: research
-For each target organizations, missions and programs were scraped from Internet manually and recorded into an Excel spreadsheet.
+For each target organization, missions and programs were scraped from the Internet manually and recorded into an Excel spreadsheet.
 
 ### Data import
 For demonstration purpose, this analysis will be carried out on organizations with `priority != 3`
