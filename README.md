@@ -61,3 +61,11 @@ For demonstration purpose, this analysis will be carried out on organizations wi
   - Hyperparameters tuning needs to be done with more care if the problem scales up. This include but is not limited to:
     - Choice of K (number of clusters) in clustering
     - Choice of K (number of topics), alpha, beta
+    
+## Tableau
+- Two dashboards were created to summarize results and facilitate comparison.
+- [Competitive Landscape Analysis](https://public.tableau.com/profile/qi.feng1229#!/vizhome/CompetitiveLanscape/Dashboard1). This dashboard summarizes basic info about each organization. It includes a map, a bar chart for revenue and three pie charts for age group, STEM area and whether the programs charge.
+<img src="https://github.com/lullaby1024/Competitive_Landscape_Analysis/blob/master/img/competitive_landscape.png" width="80%">
+
+- [Competitive Landscape Analysis - Mission Similarities](https://public.tableau.com/profile/qi.feng1229#!/vizhome/CompetitiveLanscape-MissionSimilarity/Dashboard2). This dashboard visualizes the mission similarities across the organizations.
+<img src="https://github.com/lullaby1024/Competitive_Landscape_Analysis/blob/master/img/competitive_landscape_missions.png" width="80%">
