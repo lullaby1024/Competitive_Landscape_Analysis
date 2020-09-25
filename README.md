@@ -68,4 +68,4 @@ For demonstration purpose, this analysis will be carried out on organizations wi
 <img src="https://github.com/lullaby1024/Competitive_Landscape_Analysis/blob/master/img/competitive_landscape.png" width="80%">
 
 - [Competitive Landscape Analysis - Mission Similarities](https://public.tableau.com/profile/qi.feng1229#!/vizhome/CompetitiveLanscape-MissionSimilarity/Dashboard2). This dashboard visualizes the mission similarities across the organizations.
-<img src="https://github.com/lullaby1024/Competitive_Landscape_Analysis/blob/master/img/competitive_landscape_missions.png" width="80%">
+![missions](https://github.com/lullaby1024/Competitive_Landscape_Analysis/blob/master/img/competitive_landscape_missions.gif)
